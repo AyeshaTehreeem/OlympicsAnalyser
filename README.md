@@ -3,17 +3,17 @@
 
 This project delves into 120 years of Olympic Games, covering events from Athens 1896 to Rio 2016, offering comprehensive insights through four distinct analyses focusing on Summer Olympics:
 
-- Medal Tally Analysis:
+- __Medal Tally Analysis__:
 
 Provides a detailed breakdown of Gold, Silver, and Bronze medals won by each participating nation.
 
-- Overall Analysis:
+- __Overall Analysis__:
 
 Highlights top statistics, trends in participating nations, events, athletes, and identifies the most successful athlete in each sport.
-- Country-wise Analysis:
+- __Country-wise Analysis__:
 
 Displays the medal tally for a selected country, identifies the sports in which the country excels, and lists the top 10 athletes of that nation.
-- Athlete-wise Analysis:
+- __Athlete-wise Analysis__:
 
 Analyzes the age distribution among gold medalists, presents a scatterplot comparing height vs weight for winners and non-winners, and explores the participation rates of men vs women.
 
@@ -66,13 +66,13 @@ Sporting Evolution:
 
 __Dominant Athletes__
 
-Michael Fred Phelps II, representing the USA, stands as the most successful Olympic athlete.
+- Michael Fred Phelps II, representing the USA, stands as the most successful Olympic athlete.
 
-In Hockey, India boasts exceptional talent with athletes like Udham Singh Kular and Leslie Walter Claudius.
+- In Hockey, India boasts exceptional talent with athletes like Udham Singh Kular and Leslie Walter Claudius.
 
 __Gender Representation__
 
-Women's participation has grown significantly, from 21% in 1980 to 45% in 2016, reflecting a positive trend towards inclusivity.
+- Women's participation has grown significantly, from 21% in 1980 to 45% in 2016, reflecting a positive trend towards inclusivity.
 
 
 
